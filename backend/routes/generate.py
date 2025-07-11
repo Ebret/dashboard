@@ -1,0 +1,1 @@
+# FastAPI generate dashboard code here
